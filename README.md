@@ -10,4 +10,4 @@ AUTHOR This project is created by Antara Gupta.
 
 Source: https://github.com/Antara25-10/Payment-Gateway-Integration
 
-Deployed link: 
+Deployed link:  https://antara25-10.github.io/Payment-Gateway-Integration/
